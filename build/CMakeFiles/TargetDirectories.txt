@@ -1,0 +1,4 @@
+/Users/willaugustyn/geant4/geant4-v11.3.0-install/share/Geant4/examples/my_examples/tut1/build/CMakeFiles/sim.dir
+/Users/willaugustyn/geant4/geant4-v11.3.0-install/share/Geant4/examples/my_examples/tut1/build/CMakeFiles/Tutorial.dir
+/Users/willaugustyn/geant4/geant4-v11.3.0-install/share/Geant4/examples/my_examples/tut1/build/CMakeFiles/edit_cache.dir
+/Users/willaugustyn/geant4/geant4-v11.3.0-install/share/Geant4/examples/my_examples/tut1/build/CMakeFiles/rebuild_cache.dir

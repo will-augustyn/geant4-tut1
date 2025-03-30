@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/willaugustyn/geant4/geant4-v11.3.0-install/share/Geant4/examples/my_examples/tut1/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_QT3D -DG4VIS_USE_RAYTRACERX -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DG4VIS_USE_TOOLSSG_X11_ZB -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/willaugustyn/geant4/geant4-v11.3.0-install/share/Geant4/examples/my_examples/tut1/include -isystem /usr/local/include/Geant4 -isystem /opt/local/include -iframework /opt/local/libexec/qt5/lib -isystem /opt/local/libexec/qt5/lib/QtCore.framework/Headers -isystem /opt/local/libexec/qt5/./mkspecs/macx-clang -isystem /opt/local/libexec/qt5/lib/QtGui.framework/Headers -isystem /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/System/Library/Frameworks/OpenGL.framework/Headers -isystem /opt/local/libexec/qt5/lib/QtWidgets.framework/Headers -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -fPIC -o CMakeFiles/sim.dir/sim.cc.o -c /Users/willaugustyn/geant4/geant4-v11.3.0-install/share/Geant4/examples/my_examples/tut1/sim.cc",
+  "file": "/Users/willaugustyn/geant4/geant4-v11.3.0-install/share/Geant4/examples/my_examples/tut1/sim.cc",
+  "output": "CMakeFiles/sim.dir/sim.cc.o"
+}
+]
